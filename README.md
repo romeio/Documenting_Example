@@ -1,4 +1,4 @@
-# ---------------------E-Commerce Salrs Analysis ---------------------
+# ---------------------E-Commerce Salary Analysis ---------------------
 ## Table of Contents
 - [Data Source](#data-source)
 - [Tools](#Tools)
