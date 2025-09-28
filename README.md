@@ -22,7 +22,7 @@ This is data analysis project aims to provde insights into the sales perforamanc
 
 
 
-
+    🥇 😄
 
    #### Data Source
     Sales Data : The primary Dataset used for this analysis is the "sales_data.csv" file , containing detailed information about sales made by the company.
