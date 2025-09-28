@@ -14,6 +14,14 @@ This is data analysis project aims to provde insights into the sales perforamanc
 - installation
 - usage
   - project structure
+ 
+
+
+
+![1743349865824](https://github.com/user-attachments/assets/11d10f11-8e5b-4e2f-834c-37c661c45ed1)
+
+
+
 
 
    #### Data Source
