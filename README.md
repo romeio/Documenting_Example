@@ -5,8 +5,11 @@
 - [Tools](#tools)
 - [Data Analysis Steps](#data-analysis-steps)
 
-
-
+|Heading1|Heading2|
+|---------|----------|
+|Content|Contents2|content3|
+|python|SQl|
+  ---
 This is data analysis project aims to provde insights into the sales perforamance  e-commerce company over the past year
 
 #### Table of contents
@@ -52,6 +55,9 @@ This is data analysis project aims to provde insights into the sales perforamanc
        - invest in marketing promotions during peak
        - sfsfsf
     
+        `column_1`
 
-          
+
+          ** bold **
+      *italic*
         
